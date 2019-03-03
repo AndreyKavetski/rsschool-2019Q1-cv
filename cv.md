@@ -22,13 +22,11 @@
 * *OTHER SKILLS*
 * Test planning, Test design, Web testing, Mobile testing, Java, C++, C#, HTML, CSS, JS, SQL
 * *COMPLETED PROJECTS*
-* Writing documentation and testing the web store; 
-* Writing documentation and testing a mobile order creation application; Site creation using layouts (html, css, js)
+* Writing documentation and testing the web store; Writing documentation and testing a mobile order creation application; Site creation using layouts (html, css, js)
 
 ## **Languages**
 * Russian - Native language
 * English - Intermediate
-
 
 ## **Contact**
 * MOB.: +375 29 118-58-33

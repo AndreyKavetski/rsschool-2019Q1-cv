@@ -1,1 +1,1 @@
-https://github.com/AndreyKavetski/rsschool-2019Q1-cv
+[CV link](https://andreykavetski.github.io/rsschool-2019Q1-cv/cv)

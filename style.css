@@ -6,6 +6,7 @@
 .content_style {
     border: 2px solid grey;
     padding: 10px;
+    box-shadow: 5px 5px 15px 0 black;
 }
 
 .text_style-1 {
@@ -31,4 +32,8 @@
     font-size: 18px;
     font-style: italic;
     line-height: 40px;
+}
+
+.selfie {
+    float: right;
 }
